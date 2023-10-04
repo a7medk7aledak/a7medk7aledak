@@ -1,10 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ahmed 👋</h1>
+<p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100094109894916"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
+I am Ahmed Khaled, a student in communications engineering, working as a Freelancer front-end web developer in a competitive Programme in ECPC Competitions.
 
 <!--
-**a7medk7aledak/a7medk7aledak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
