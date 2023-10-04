@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
 <p align="center">
-    <a href="https://www.facebook.com/profile.php?id=100094109894916"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.facebook.com/profile.php?id=100094109894916"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
