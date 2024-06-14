@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  I am Ahmed Khaled, a student in communications engineering, working as a Freelancer front-end web developer in a competitive Programme in ECPC Competitions.
+  I am Ahmed Khaled, a communications engineering student working as a Freelancer full-stack web developer, competitive Programmer in ECPC Competitions, and learning. machine learning, "Curiosity is the lust of the mind.", Learning addiction is our way of life...
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
   
 ## 🧰 &nbsp;My toolbox
