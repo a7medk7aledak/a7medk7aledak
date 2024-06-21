@@ -1,6 +1,15 @@
-
+<h3 align="center">
+  Welcome to Ahmed Khaled's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20I%20am%20a%20Software%20Engineer;Working%20as%20MERN%20Stack%20Developer;Learner%20Machine%20Learning%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100094109894916"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://wa.me/+201005701983" target="_blank"><img src="https://img.shields.io/badge/-what`sapp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+    <a href="mailto:ahmadkhaled20011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA2328?style=flat&logo=Gmail&logoColor=red"/></a>
     <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
