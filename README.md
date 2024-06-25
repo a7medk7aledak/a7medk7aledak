@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  I am Ahmed Khaled, a communications engineering student working as a Freelancer full-stack web developer, competitive Programmer in ECPC Competitions, and learning. machine learning, "Curiosity is the lust of the mind.", Learning addiction is our way of life...
+I am Ahmed Khaled, a communications engineering student working as a Freelancer full-stack web developer, I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications.  I can use  Machine learning and AI in my work, and I am a competitive Programmer in ECPC Competitions, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, Nextjs, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
   
 ## 🧰 &nbsp;My toolbox
