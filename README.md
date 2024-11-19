@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/%E2%80%AAahmed-khaled-a3852b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/a7med_k7aled_ak/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-I am Ahmed Khaled, a Highly motivated Communications Engineering student and Freelance Full-Stack Web Developer with a proven track record of building efficient, scalable, and user-friendly web applications. Proficient in modern web development technologies, including React, Next.js, Node.js, Express.js, and database solutions like MySQL and MongoDB.
+I am Ahmed Khaled, Highly motivated Software Engineer and Full-Stack Web Developer. Proficient in modern web development technologies, including React, Next.js, Node.js, Express.js, and database solutions like MySQL and MongoDB.
 
 Additionally, I bring expertise in Artificial Intelligence (AI) and Machine Learning (ML) as an added value, leveraging tools like TensorFlow, Rasa, and Natural Language Processing (NLP). My AI capabilities have been applied to developing intelligent chatbots and virtual assistants that enhance user experience and solve real-world problems.
 
